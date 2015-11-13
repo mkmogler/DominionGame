@@ -1,7 +1,8 @@
 import java.util.Random;
 import javax.swing.JOptionPane;
 
-//Problem with the local variables throughout das 
+//Problem with the local variables throughout
+//First Change
 public class ActionSpecial
 {
   static Integer[] hand;
